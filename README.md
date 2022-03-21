@@ -5,4 +5,6 @@ Hi Mọi Người~~~~~
 Tui là Shin , tôi mới tập tành code discord bot:))) , Nếu mọi người xem hay sử dụng thì hãy cho mình ý kiến đóng góp để giúp mình phát triển bot nha!!!
 # Giới Thiệu về bot
 Đây là một e bot discord tui lấy ý tưởng từ elina bot và từ waifu của tui : Siesta
+# Update 21-3:
+P/s: Đang lười code + ôn thi
 # Kết thúc~~
